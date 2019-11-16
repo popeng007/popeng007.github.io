@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "博客程序部署完成，将利用Markdown语法实现轻松写作"
-date:   2019-11-16 22:13:20 +0800
+date:   2019-11-16 22:13:20
 categories: blog
 ---
 
