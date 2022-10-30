@@ -22,7 +22,7 @@ title: 张先鹏的博客
 author: www.zhangxianpeng.com
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  一名普通的文艺IT从业者
+  一名普通的IT从业者
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.zhangxianpeng.com" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
@@ -39,6 +39,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
+future: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
