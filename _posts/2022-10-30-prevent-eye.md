@@ -19,4 +19,4 @@ categories: blog
 4、辅助护眼  
 户外远眺，看绿色植物，做眼保健操。
 
-<p align="right" style="color:#ccc; font-style:italic;">2021-09-25</p>
+<p align="right" style="color:#ccc; font-style:italic;">2022-09-25</p>
